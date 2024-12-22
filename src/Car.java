@@ -22,6 +22,6 @@ class CarClass {
 public class Car {
     public static void main(String[] args) {
         CarClass myCar = new CarClass("Toyota", "Red", 20);
-        myCar.message();  // Calls the message method with no arguments
+        myCar.message(); // Calls the message method with no arguments
     }
 }
